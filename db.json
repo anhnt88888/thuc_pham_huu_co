@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Cauliflower",
+      "image": "../../../assets/img/product/12.png",
+      "img_silder": [
+        {
+          "id": "1",
+          "img_src": "../../../assets/img/product/1.png"
+        },
+        {
+          "id": "2",
+          "img_src": "../../../assets/img/product/2.png"
+        },
+        {
+          "id": "3",
+          "img_src": "../../../assets/img/product/3.png"
+        },
+        {
+          "id": "4",
+          "img_src": "../../../assets/img/product/4.png"
+        },
+        {
+          "id": "5",
+          "img_src": "../../../assets/img/product/5.png"
+        },
+        {
+          "id": "6",
+          "img_src": "../../../assets/img/product/6.png"
+        },
+        {
+          "id": "7",
+          "img_src": "../../../assets/img/product/7.png"
+        }
+      ],
+      "price": "32",
+      "old_price": "46",
+      "sale": "-19%",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "id": "2",
+      "name": "Passion fruit",
+      "price": "75",
+      "old_price": "92",
+      "image": "../../../assets/img/product/13.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "sale": "-30%"
+    },
+    {
+      "id": "3",
+      "name": "Purple onion",
+      "price": "78",
+      "old_price": "85",
+      "image": "../../../assets/img/product/14.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "sale": "-36%"
+    },
+    {
+      "id": "4",
+      "name": "Kiwi",
+      "price": "40",
+      "old_price": "46",
+      "image": "../../../assets/img/product/7.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "sale": "-28%"
+    },
+    {
+      "id": "5",
+      "name": "Shiitake Mushrooms",
+      "price": "150",
+      "old_price": "180",
+      "image": "../../../assets/img/product/8.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "sale": "-11%"
+    },
+    {
+      "id": "6",
+      "name": "Mangosteen",
+      "price": "40",
+      "old_price": "46",
+      "image": "../../../assets/img/product/9.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "sale": "-42%"
+    },
+    {
+      "id": "7",
+      "name": "Pear",
+      "price": "40",
+      "old_price": "46",
+      "image": "../../../assets/img/product/6.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "sale": "-50%"
+    },
+    {
+      "id": "4A5i65G",
+      "name": "Mango",
+      "price": 123,
+      "old_price": 231,
+      "image": "https://dongthap.gov.vn/image/journal/article?img_id=14760765",
+      "description": "Mango is a sweet-tasting fruit of the genus Mango, which includes numerous tropical fruits, grown mainly as edible fruit. The majority of species found in the wild are wild mangoes. They all belong to the Anacardiaceae family of flowering plants.",
+      "sale": "-123%"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user123",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "username": "anh",
+      "email": "anh123@gmail.com",
+      "password": "anh123",
+      "confirmPassword": "anh123",
+      "isAdmin": true
+    }
+  ]
+}
